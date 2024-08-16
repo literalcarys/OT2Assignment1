@@ -7,6 +7,6 @@ Completed by Carys Gilbert and Aidan Martin
 * split_cube.ipynb splits the cube into slices with edited headers and plots the slices
 
 * extract_fluxes.ipynb uses radioflux to get fluxes (whcih were copied into Fluxes.csv)
-  * Ran using req_radionflux.txt package versions
+  * Ran using req_radioflux.txt package versions
 
 * spectral_index.ipynb plots data and fits line to find spectral index. Also adds in and plots/fits extra SUMSS data
